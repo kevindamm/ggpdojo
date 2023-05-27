@@ -1,0 +1,21 @@
+{
+  "name": "Spargo",
+  "dimensions": {
+    "Board Usage": 0.989,
+    "Equipment Complexity": 0.277,
+    "Game Tree Complexity": 0.454,
+    "Move Separability": 0.689,
+    "Mutational Complexity": 0.081,
+    "Piece Usage": 0.932,
+    "Rule Complexity": 0.5,
+    "Statespace Complexity": 0.263
+  },
+  "scores": {
+    "Clarity": 0.689,
+    "Efficiency": 0.961,
+    "Elegance": 0.961,
+    "Relative Depth": 0.864,
+    "Shibui": 0.612,
+    "Simplicity": 0.612
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gomoku",
+  "dimensions": {
+    "Board Usage": 0.999,
+    "Equipment Complexity": 0.778,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0.025,
+    "Mutational Complexity": 0,
+    "Piece Usage": 0.243,
+    "Rule Complexity": 0.151,
+    "Statespace Complexity": 1
+  },
+  "scores": {
+    "Clarity": 0.025,
+    "Efficiency": 0.621,
+    "Elegance": 0.536,
+    "Relative Depth": 0.5,
+    "Shibui": 0.025,
+    "Simplicity": 0.536
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Chess",
+  "dimensions": {
+    "Board Usage": 0.996,
+    "Equipment Complexity": 0.623,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0.286,
+    "Mutational Complexity": 0.302,
+    "Piece Usage": 1,
+    "Rule Complexity": 0.79,
+    "Statespace Complexity": 0.94
+  },
+  "scores": {
+    "Clarity": 0.286,
+    "Efficiency": 0.998,
+    "Elegance": 0.998,
+    "Relative Depth": 0.532,
+    "Shibui": 0.286,
+    "Simplicity": 0.294
+  }
+}

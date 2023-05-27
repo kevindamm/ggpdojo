@@ -1,0 +1,21 @@
+{
+  "name": "Fill the Board",
+  "dimensions": {
+    "Board Usage": 1,
+    "Equipment Complexity": 0.204,
+    "Game Tree Complexity": 0.266,
+    "Move Separability": 0,
+    "Mutational Complexity": 0,
+    "Piece Usage": 1,
+    "Rule Complexity": 0,
+    "Statespace Complexity": 0.13
+  },
+  "scores": {
+    "Clarity": 0,
+    "Efficiency": 1,
+    "Elegance": 1,
+    "Relative Depth": 1,
+    "Shibui": 0,
+    "Simplicity": 0.898
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tic Tac Toe",
+  "dimensions": {
+    "Board Usage": 1,
+    "Equipment Complexity": 0.079,
+    "Game Tree Complexity": 0.111,
+    "Move Separability": 0.075,
+    "Mutational Complexity": 0,
+    "Piece Usage": 1,
+    "Rule Complexity": 0.151,
+    "Statespace Complexity": 0.06
+  },
+  "scores": {
+    "Clarity": 0.075,
+    "Efficiency": 1,
+    "Elegance": 1,
+    "Relative Depth": 0.927,
+    "Shibui": 0.075,
+    "Simplicity": 0.885
+  }
+}

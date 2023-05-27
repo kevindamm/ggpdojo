@@ -1,0 +1,21 @@
+{
+  "name": "Reversi",
+  "dimensions": {
+    "Board Usage": 1,
+    "Equipment Complexity": 0.505,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0.568,
+    "Mutational Complexity": 0.379,
+    "Piece Usage": 0.938,
+    "Rule Complexity": 0.389,
+    "Statespace Complexity": 0.56
+  },
+  "scores": {
+    "Clarity": 0.568,
+    "Efficiency": 0.969,
+    "Elegance": 0.969,
+    "Relative Depth": 0.893,
+    "Shibui": 0.553,
+    "Simplicity": 0.553
+  }
+}

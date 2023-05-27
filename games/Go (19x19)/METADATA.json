@@ -1,0 +1,21 @@
+{
+  "name": "Go (19x19)",
+  "dimensions": {
+    "Board Usage": 0.998,
+    "Equipment Complexity": 0.881,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0,
+    "Mutational Complexity": 0,
+    "Piece Usage": 1,
+    "Rule Complexity": 0.452,
+    "Statespace Complexity": 1
+  },
+  "scores": {
+    "Clarity": 0,
+    "Efficiency": 0.999,
+    "Elegance": 0.999,
+    "Relative Depth": 0.5,
+    "Shibui": 0,
+    "Simplicity": 0.334
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ponnuki Go",
+  "dimensions": {
+    "Board Usage": 0.999,
+    "Equipment Complexity": 0.204,
+    "Game Tree Complexity": 0.249,
+    "Move Separability": 0.806,
+    "Mutational Complexity": 0.033,
+    "Piece Usage": 0.803,
+    "Rule Complexity": 0.452,
+    "Statespace Complexity": 0.13
+  },
+  "scores": {
+    "Clarity": 0.806,
+    "Efficiency": 0.901,
+    "Elegance": 0.96,
+    "Relative Depth": 0.96,
+    "Shibui": 0.672,
+    "Simplicity": 0.672
+  }
+}

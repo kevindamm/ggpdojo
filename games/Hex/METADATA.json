@@ -1,0 +1,21 @@
+{
+  "name": "Hex",
+  "dimensions": {
+    "Board Usage": 0.997,
+    "Equipment Complexity": 0.644,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0.029,
+    "Mutational Complexity": 0,
+    "Piece Usage": 0.272,
+    "Rule Complexity": 0.301,
+    "Statespace Complexity": 1
+  },
+  "scores": {
+    "Clarity": 0.029,
+    "Efficiency": 0.636,
+    "Elegance": 0.636,
+    "Relative Depth": 0.5,
+    "Shibui": 0.029,
+    "Simplicity": 0.528
+  }
+}

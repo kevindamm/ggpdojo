@@ -1,0 +1,21 @@
+{
+  "name": "The L Game",
+  "dimensions": {
+    "Board Usage": 0.981,
+    "Equipment Complexity": 0.204,
+    "Game Tree Complexity": 0.073,
+    "Move Separability": 0.596,
+    "Mutational Complexity": 0.388,
+    "Piece Usage": 0.95,
+    "Rule Complexity": 0.557,
+    "Statespace Complexity": 0.067
+  },
+  "scores": {
+    "Clarity": 0.596,
+    "Efficiency": 0.965,
+    "Elegance": 0.965,
+    "Relative Depth": 0.546,
+    "Shibui": 0.546,
+    "Simplicity": 0.62
+  }
+}

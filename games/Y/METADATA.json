@@ -1,0 +1,21 @@
+{
+  "name": "Y",
+  "dimensions": {
+    "Board Usage": 0.998,
+    "Equipment Complexity": 0.512,
+    "Game Tree Complexity": 0.982,
+    "Move Separability": 0.036,
+    "Mutational Complexity": 0,
+    "Piece Usage": 0.203,
+    "Rule Complexity": 0.151,
+    "Statespace Complexity": 0.6
+  },
+  "scores": {
+    "Clarity": 0.036,
+    "Efficiency": 0.601,
+    "Elegance": 0.818,
+    "Relative Depth": 0.818,
+    "Shibui": 0.036,
+    "Simplicity": 0.669
+  }
+}

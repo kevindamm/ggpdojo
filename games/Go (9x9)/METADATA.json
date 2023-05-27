@@ -1,0 +1,21 @@
+{
+  "name": "Go (9x9)",
+  "dimensions": {
+    "Board Usage": 0.915,
+    "Equipment Complexity": 0.536,
+    "Game Tree Complexity": 1,
+    "Move Separability": 0,
+    "Mutational Complexity": 0.046,
+    "Piece Usage": 0.63,
+    "Rule Complexity": 0.452,
+    "Statespace Complexity": 0.76
+  },
+  "scores": {
+    "Clarity": 0,
+    "Efficiency": 0.772,
+    "Elegance": 0.772,
+    "Relative Depth": 0.658,
+    "Shibui": 0,
+    "Simplicity": 0.506
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Go (4x4)",
+  "dimensions": {
+    "Board Usage": 0.963,
+    "Equipment Complexity": 0.204,
+    "Game Tree Complexity": 0.39,
+    "Move Separability": 0.722,
+    "Mutational Complexity": 0.039,
+    "Piece Usage": 1,
+    "Rule Complexity": 0.452,
+    "Statespace Complexity": 0.13
+  },
+  "scores": {
+    "Clarity": 0.722,
+    "Efficiency": 0.982,
+    "Elegance": 1,
+    "Relative Depth": 1,
+    "Shibui": 0.672,
+    "Simplicity": 0.672
+  }
+}

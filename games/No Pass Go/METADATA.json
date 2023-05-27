@@ -1,0 +1,21 @@
+{
+  "name": "No Pass Go",
+  "dimensions": {
+    "Board Usage": 0.998,
+    "Equipment Complexity": 0.204,
+    "Game Tree Complexity": 0.387,
+    "Move Separability": 0.755,
+    "Mutational Complexity": 0.074,
+    "Piece Usage": 1,
+    "Rule Complexity": 0.423,
+    "Statespace Complexity": 0.13
+  },
+  "scores": {
+    "Clarity": 0.755,
+    "Efficiency": 0.999,
+    "Elegance": 1,
+    "Relative Depth": 1,
+    "Shibui": 0.687,
+    "Simplicity": 0.687
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Spline",
+  "dimensions": {
+    "Board Usage": 0.998,
+    "Equipment Complexity": 0.277,
+    "Game Tree Complexity": 0.371,
+    "Move Separability": 0.754,
+    "Mutational Complexity": 0,
+    "Piece Usage": 0.605,
+    "Rule Complexity": 0.151,
+    "Statespace Complexity": 0.263
+  },
+  "scores": {
+    "Clarity": 0.754,
+    "Efficiency": 0.802,
+    "Elegance": 0.802,
+    "Relative Depth": 0.705,
+    "Shibui": 0.705,
+    "Simplicity": 0.786
+  }
+}
