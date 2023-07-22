@@ -1,6 +1,8 @@
 {
+  "id": "knight-panic",
   "name": "Knight Panic",
-  "dimensions": {
+  "roles": ["white", "black"],
+  "measures": {
     "Board Usage": 0.989,
     "Equipment Complexity": 0.174,
     "Game Tree Complexity": 0.068,

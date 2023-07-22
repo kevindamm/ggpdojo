@@ -1,6 +1,8 @@
 {
+  "id": "go-4x4",
   "name": "Go (4x4)",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 0.963,
     "Equipment Complexity": 0.204,
     "Game Tree Complexity": 0.39,

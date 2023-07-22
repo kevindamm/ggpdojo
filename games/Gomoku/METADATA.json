@@ -1,6 +1,8 @@
 {
+  "id": "gomoku",
   "name": "Gomoku",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 0.999,
     "Equipment Complexity": 0.778,
     "Game Tree Complexity": 1,

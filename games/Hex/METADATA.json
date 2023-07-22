@@ -1,6 +1,8 @@
 {
+  "id": "hex",
   "name": "Hex",
-  "dimensions": {
+  "roles": ["red", "white"],
+  "measures": {
     "Board Usage": 0.997,
     "Equipment Complexity": 0.644,
     "Game Tree Complexity": 1,

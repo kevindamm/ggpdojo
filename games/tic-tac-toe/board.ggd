@@ -1,0 +1,13 @@
+
+data X := 1 .. width.
+data Y := 1 .. height.
+
+data CellValue := blank | x | o.
+
+board.cell(?x, ?y) -> CellValue :- ?x \in X, ?y \in Y.
+
+init (
+  board.cell = blank
+)
+
+export default board.

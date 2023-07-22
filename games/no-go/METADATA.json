@@ -1,6 +1,8 @@
 {
+  "id": "no-go",
   "name": "NoGo",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 0.999,
     "Equipment Complexity": 0.204,
     "Game Tree Complexity": 0.262,

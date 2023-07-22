@@ -1,6 +1,8 @@
 {
+  "id": "y",
   "name": "Y",
-  "dimensions": {
+  "roles": []
+  "measures": {
     "Board Usage": 0.998,
     "Equipment Complexity": 0.512,
     "Game Tree Complexity": 0.982,

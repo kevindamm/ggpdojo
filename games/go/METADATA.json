@@ -1,6 +1,8 @@
 {
+  "id": "go",
   "name": "Go (19x19)",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 0.998,
     "Equipment Complexity": 0.881,
     "Game Tree Complexity": 1,

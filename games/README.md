@@ -26,3 +26,7 @@ initial game collection use games shared from there, see the game's metadata for
 details).  This is the representation shared with clients (via gameplay API) and
 is used as a compatibility layer for interplay with GGP competitions.
 
+**`components/`**: web components in Vue3 for rendering the game board and
+interactions for human players.  An `App.vue` may exist in the game's directory
+to assist in play-testing the game.  The components may make some assumptions
+about the terms used in the database as defined by `rulesheet.kif`

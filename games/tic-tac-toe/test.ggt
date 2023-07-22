@@ -1,0 +1,13 @@
+role playerx.
+role playero.
+
+var width, height int.
+
+base(control(?p)) :- role(?p)
+init(control(playerx))
+control(?p) => control(?p') :- next(?p, ?p')
+next(playerx, playero)
+next(playero, playerx)
+
+legal(?p, noop) :- role(?p), not(control(?p)).
+

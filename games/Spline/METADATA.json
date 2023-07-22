@@ -1,6 +1,8 @@
 {
+  "id": ["spline"],
   "name": "Spline",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 0.998,
     "Equipment Complexity": 0.277,
     "Game Tree Complexity": 0.371,

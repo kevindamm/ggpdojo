@@ -1,6 +1,7 @@
 {
   "name": "Chess",
-  "dimensions": {
+  "roles": ["white", "black"],
+  "measures": {
     "Board Usage": 0.996,
     "Equipment Complexity": 0.623,
     "Game Tree Complexity": 1,

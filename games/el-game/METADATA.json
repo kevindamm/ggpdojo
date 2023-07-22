@@ -1,6 +1,8 @@
 {
+  "id": "el-game",
   "name": "The L Game",
-  "dimensions": {
+  "roles": ["red", "blue"],
+  "measures": {
     "Board Usage": 0.981,
     "Equipment Complexity": 0.204,
     "Game Tree Complexity": 0.073,

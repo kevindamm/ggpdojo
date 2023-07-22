@@ -1,6 +1,8 @@
 {
+  "id": "reversi",
   "name": "Reversi",
-  "dimensions": {
+  "roles": ["black", "white"],
+  "measures": {
     "Board Usage": 1,
     "Equipment Complexity": 0.505,
     "Game Tree Complexity": 1,
