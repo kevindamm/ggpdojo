@@ -1,7 +1,7 @@
 {
   "id": "y",
   "name": "Y",
-  "roles": ["black", "white"],]
+  "roles": ["black", "white"],
   "measures": {
     "Board Usage": 0.998,
     "Equipment Complexity": 0.512,
